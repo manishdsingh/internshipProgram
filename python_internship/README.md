@@ -16,6 +16,4 @@ Each week focuses on building Python skills from basics to advanced, ending with
 ## 📂 Structure
 Each week has:
 - `assignment.md` → Problem statement, requirements, hints
-- `solution.py` → Reference implementation (for mentor use)
-
-⚠️ **Note:** Share only `assignment.md` files with interns. Keep `solution.py` for reviews and guidance.
+- Create `solution.py` in each week folder to keep track of solution which the candidate propose
