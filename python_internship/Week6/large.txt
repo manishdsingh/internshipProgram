@@ -1,0 +1,6 @@
+Hello World
+Python is awesome
+Generators are memory efficient
+Decorators are powerful
+Context managers help handle files safely
+Practice Python daily
